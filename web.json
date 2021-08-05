@@ -2,11 +2,7 @@
     "AWSTemplateFormatVersion": "2010-09-09",
     "Metadata": {
         "AWS::CloudFormation::Designer": {
-            "8273d342-8e91-49dc-bf47-08ae8e5ab752": {
-                "size": {
-                    "width": 480,
-                    "height": 300
-                },
+            "8273d342-8e91-49dc-bf47-08ae8e5ab752": 
                 "position": {
                     "x": 60,
                     "y": 150
